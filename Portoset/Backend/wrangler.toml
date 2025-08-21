@@ -1,0 +1,3 @@
+name = "portoset-backend"
+main = "cloudflare-worker-image.js"
+compatibility_date = "2025-08-21"
